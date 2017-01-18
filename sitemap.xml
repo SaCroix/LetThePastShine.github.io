@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Lights.com/images/logo.png</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Lights.com/images/holocaust.jpg</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Lights.com/images/ko.jpg</loc>
+    <lastmod>2017-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Lights.com/images/pfeil%20mobile.png</loc>
+    <lastmod>2017-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Lights.com/index.html</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Lights.com/lampe.html</loc>
+    <lastmod>2017-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Lights.com/kontakt.html</loc>
+    <lastmod>2017-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

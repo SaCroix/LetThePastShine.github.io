@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Lights.com" resolutions="1x" timestamp="1484126512855">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Lights.com" resolutions="1x" timestamp="1484775817082">
   <folder name="assets">
     <folder name="an_final">
       <folder name="edge_includes">
@@ -18,17 +18,34 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="207830085" ref="index"/>
+    <file name="index.css" crc="3819887608" ref="index"/>
+    <file name="lampe.css" crc="3962763322" ref="lampe"/>
+    <file name="kontakt.css" crc="191986496" ref="kontakt"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:lampe:kontakt"/>
+    <file name="museutils.js" crc="183364071" ref="index:lampe:kontakt"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:lampe:kontakt"/>
+    <file name="pie.js" crc="3827607177" ref="lampe"/>
+    <file name="webpro.js" crc="3803554875" ref="kontakt"/>
+    <file name="form_check.php" crc="277267350" ref="kontakt"/>
+    <file name="form_throttle.php" crc="3908387251" ref="kontakt"/>
+    <file name="form_process.php" crc="24249335" ref="kontakt"/>
+    <file name="form-u228.php" crc="469897443" ref="kontakt"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="379012272" seo="true" ref="index"/>
     <file name="holocaust.jpg" crc="3977235713" seo="true" ref="index"/>
+    <file name="06-crop-u142.jpg" crc="4071645758" ref="index"/>
+    <file name="ko.jpg" crc="379257786" seo="true" ref="lampe:kontakt"/>
+    <file name="pfeil mobile.png" crc="4276708433" seo="true" ref="lampe:kontakt"/>
+    <file name="u244-21.png" crc="390018333" ref="kontakt"/>
+    <file name="u244-21-r.png" crc="356984534" ref="kontakt"/>
+    <file name="u244-21-m.png" crc="256768717" ref="kontakt"/>
+    <file name="u244-21-fs.png" crc="4234377887" ref="kontakt"/>
   </folder>
-  <file name="index.html" crc="471990615" seo="true" mt="1484126475651" redirect="true"/>
+  <file name="index.html" crc="74173867" seo="true" mt="1484773642333" redirect="true"/>
+  <file name="lampe.html" crc="256307831" seo="true" mt="1484775797967" redirect="true"/>
+  <file name="kontakt.html" crc="29642784" seo="true" mt="1484775766891" redirect="true"/>
 </manifest>
